@@ -1,0 +1,2 @@
+# centos
+CentOS 6
