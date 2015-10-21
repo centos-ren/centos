@@ -17,16 +17,18 @@
 * 安装 CentOS 6.7
   * 1.1 安装
   * 1.2 配置工具 setup
-  * 1.3 SSH 和 VNC
-  * 1.4 时间设置、同步
-  * 1.5 Linux 的目录及功能
+  * 1.3 SSH
+  * 1.4 VNC
+  * 1.5 时间设置、同步
+  * 1.6 Linux 的目录及功能
 
 ### 第 2 章 rpm ###
 
 * 软件管理
   * 2.1 源码安装、升级和卸载
   * 2.2 rpm 安装、升级和卸载
-  * 2.3 yum 安装（yum 源、本地源）、升级和卸载 downloader provides search all
+  * 2.3 yum 安装、升级和卸载 downloader provides search all
+  * 2.4 yum 源和本地源搭建
 
 ### 第 3 章 Network ###
 
