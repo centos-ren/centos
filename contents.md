@@ -14,8 +14,8 @@
 
 ### 第 1 章 CentOS 6.7 ###
 
-* 安装 CentOS 6.7
-  * 1.1 安装 CentOS
+* 安装系统
+  * 1.1 安装 CentOS 6.7
   * 1.2 setup 和 SELinux
   * 1.3 SSH
   * 1.4 VNC
