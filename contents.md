@@ -1,8 +1,8 @@
 
-# CentOS #
+# CentOS 人 #
 
 ![Alt Text](https://www.centos.org/images/logo_small.png "CentOS")
-
+ www.centos.ren[网站还没部署好……]
 -----------------------------------
 
 ### 第 0 章 kernel ###
