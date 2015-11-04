@@ -11,8 +11,8 @@
 ### 第 1 章 kernel ###
 
 *  Linux 0.01
-   * 1.1 Linux 内核
-   * 1.2 GNU 与 Linux
+   * [1.1 Linux 内核](https://github.com/centos-ren/centos/blob/master/1/1.1%20Linux%20%E5%86%85%E6%A0%B8.pdf)
+   * [1.2 GNU 与 Linux](https://github.com/centos-ren/centos/blob/master/1/1.2%20GNU%E4%B8%8ELinux.pdf)
    * 1.3 Linux 发行版 CentOS
 
 ### 第 2 章 CentOS 6.7 ###
